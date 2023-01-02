@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "535327533420",
+    "project_id": "birdproj-49a5c",
+    "storage_bucket": "birdproj-49a5c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:535327533420:android:417f5e00af2f3810ec6b49",
+        "android_client_info": {
+          "package_name": "com.example.avesproj"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "535327533420-so8p5s48t4b8umf6s3pdp73j4asbhs1j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTQghsvbfqe7LIUAfey90VUlUNJ5E05hI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "535327533420-so8p5s48t4b8umf6s3pdp73j4asbhs1j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
